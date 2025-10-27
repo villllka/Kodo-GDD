@@ -1,1 +1,12 @@
-.obsidian
+# Игнорировать ВСЕ файлы
+*
+
+# НЕ игнорировать нужный файл
+!KoDo GDD.md
+
+# Не игнорировать сам .gitignore
+!.gitignore
+
+# Игнорировать служебные папки Obsidian
+.obsidian/
+.trash/
