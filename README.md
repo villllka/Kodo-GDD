@@ -36,13 +36,13 @@
 
 | Спрайт                        | Имя    | Детали                                                     |
 | ----------------------------- | ------ | ---------------------------------------------------------- |
-| ![[KodiStand.png]]            | Коди   | Коди - главный герой программист, которым управляет игрок. |
-| ![[LittleDevilStand1.png]]    | Лари   | Лари - чертенок_1 из троицы работающих на предприятии.     |
-| ![[LittleDevilStand2.png]]    | Боб    | Боб - чертенок_2 из троицы работающих на предприятии.      |
-| ![[LittleDevilStand3.png]]    | Морти  | Морти - чертенок_3 из троицы работающих на предприятии.    |
-| ![[TentacleStand.png]]        | Тиклс  | Тиклс - один из мобов, дающих задание.                     |
-| ![[BarabashkaStandAngry.png]] | Нидли  | Нидли - один из мобов, дающих задание.                     |
-| ![[GentlemanStand.png]]       | Топпер | Топпер - торговец из магазина скин апдейта.                |
+| ![KodiStandRight](https://github.com/user-attachments/assets/337b4f66-ddec-4c50-8aa5-26a97a415576) |Коди   | Коди - главный герой программист, которым управляет игрок. |
+|![LittleDevilStand1](https://github.com/user-attachments/assets/2a67692c-1098-4397-84d5-43e3b03607b0) | Лари   | Лари - чертенок_1 из троицы работающих на предприятии.     |
+|![LittleDevilStand2](https://github.com/user-attachments/assets/1b6fe949-b953-4218-b7b5-cc2ab1d5db94) | Боб    | Боб - чертенок_2 из троицы работающих на предприятии.      |
+|![LittleDevilStand3](https://github.com/user-attachments/assets/6d87a4ec-d57d-45c3-8de1-24ba9ed51543) | Морти  | Морти - чертенок_3 из троицы работающих на предприятии.    |
+|![TentacleStand](https://github.com/user-attachments/assets/f341b528-6073-4c5f-a1dc-0b85dfd3ad4c) | Тиклс  | Тиклс - один из мобов, дающих задание.                     |
+|![BarabashkaStand](https://github.com/user-attachments/assets/fbba0882-b155-43d9-a7cb-6c24ac278ca0) | Нидли  | Нидли - один из мобов, дающих задание.                     |
+|![GentlemanStand](https://github.com/user-attachments/assets/66914442-f052-4c3a-9ab3-47903ef3fe89) | Топпер | Топпер - торговец из магазина скин апдейта.                |
 #### Предметы 
 | Спрайт | Название | Детали |
 | ------ | -------- | ------ |
